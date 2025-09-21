@@ -4,10 +4,10 @@ A simple app to track the score of two teams (HOME and GUEST) using HTML, CSS, a
 
 ## ⚙️ Features
 
-- Add 1, 2, or 3 points to each team
-- "New Game" button to reset the scores
-- Clean and minimal user interface
-- Custom font included
+- Add 1, 2, or 3 points to each team.
+- "New Game" button to reset the scores.
+- Clean and minimal user interface.
+- Custom font included.
 
 ## 🛠️ How to Use
 
